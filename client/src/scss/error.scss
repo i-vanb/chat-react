@@ -1,0 +1,16 @@
+.error{
+  &__wrapper{
+    text-align: center;
+    position: relative;
+  }
+  &__back{
+    position: absolute;
+    top: 0;
+    left: 20px;
+
+    a{
+      color: #4545ef;
+    }
+
+  }
+}
